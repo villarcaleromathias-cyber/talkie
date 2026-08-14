@@ -1,0 +1,10 @@
+# Secretos y variables de entorno
+.env
+*.json
+credenciales_drive.json
+secretos/
+
+# Archivos generados por Python y Streamlit
+__pycache__/
+*.pyc
+.pytest_cache/
